@@ -1,10 +1,19 @@
-# Deforestation Prediction Model
+# LeafLifePredictor: Deforestation Prediction Model
 
 This project develops a neural network-based model to predict deforestation using historical satellite and geographical data. The model aims to identify areas at risk of deforestation, aiding in more effective resource allocation and conservation efforts.
 
+![Forest Forecast Model](/Imagess/forest.jpg)
+
 ## Overview
 
-The model uses a Sequential neural network from Keras, optimized through hyperparameter tuning with Keras Tuner, to predict deforestation based on features derived from satellite imagery and geographical data.
+A  Sequential neural network engineered to predict areas at risk of deforestation and offer crucial notifications to underserved regions with limited internet and power access. This innovative solution utilizes LoRa communication technology to send timely alerts, enhancing environmental protection efforts. Additionally, the predictions of potential deforestation areas can be viewed on a website featuring a 3D map, providing an interactive and detailed visualization of regions vulnerable to tree loss. This tool is a vital asset in combating deforestation and aiding conservation efforts in remote areas.
+
+## About Us
+In response to the global trend of deforestation driven by factors such as agriculture, logging, and urban expansion, the region of Jalisco, Mexico, has emerged as one of the areas within Mexico grappling with significant deforestation challenges. To address this critical situation, we are developing a computer program designed to predict areas at risk of deforestation effectively.
+
+Furthermore, our project includes the creation of a website featuring a 3D map that displays areas at high risk of deforestation. This map also indicates where alerts have been dispatched, providing crucial information for conservation efforts. This resource serves as a valuable decision-making tool for various stakeholders, including environmental agencies, local authorities, and the general public seeking up-to-date information.
+
+Our objective is to employ advanced computer tools and specialized alert systems to notify individuals and organizations when an area is at an imminent risk of deforestation, particularly in remote and difficult-to-access areas. This effort is vital for mobilizing rapid response and conservation strategies to prevent further environmental degradation.
 
 ## Model Workflow
 
