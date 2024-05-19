@@ -1,0 +1,4 @@
+*.csv
+!/model training/*.csv
+!/forest shape/*.csv
+venv/
